@@ -30,7 +30,7 @@ https://github.com/deepakgupta124/suvidha-shopkeeper-app
 ![ssScreenshot_20210530_075723](https://user-images.githubusercontent.com/58394348/120091296-5d694f00-c127-11eb-93fd-b6f890409183.jpg)
 
 ### Demo Link
-https://www.youtube.com/watch?v=_yj-AjDekSM
+https://www.youtube.com/watch?v=sZ9gf2J5QwI
 
 ### Authors :
 - [Deepak Gupta](https://github.com/deepakgupta124)
