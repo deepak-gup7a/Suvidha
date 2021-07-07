@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\iec20\\AndroidStudioProjects\\Suvidha\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt\\values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\iec20\\.gradle\\caches\\transforms-2\\files-2.1\\5e525834c6630f9d7b36c319c7b53b18\\browser-1.2.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,104",
+                        "endOffsets": "165,264,376,481"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\iec20\\.gradle\\caches\\transforms-2\\files-2.1\\8b719277ab03e8adbfe1b89e4b72d1d4\\core-1.2.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "486",
+                        "endColumns": "100",
+                        "endOffsets": "582"
+                    }
+                }
+            ]
+        }
+    ]
+}
